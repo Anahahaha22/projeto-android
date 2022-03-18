@@ -8,8 +8,6 @@
     font-weight: normal;
 }
 
-/*VOLTAR NA AULA 'TORNANDO UM VÍDEO RESPONSIVO' PARA ANOTAR UMAS 
-'GAMBIARRA DE COMO AJUSTAR UM VÍDEO' PARA ANOTAR EM UMA CADERNO*/
 
 :root {
 
@@ -67,7 +65,7 @@ header > p {
     padding-left: 10px;
     padding-bottom: 30px;
     margin: auto;
-    margin-bottom: 0px;
+    padding-bottom: 50px;
     text-shadow: 2px 2px 0px #0000007c;
 }
 
